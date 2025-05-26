@@ -145,7 +145,7 @@
 // 19) È possibile avere più tipi generici in un'interfaccia?
 // Si è possibile avere più tipi generici in un'interfaccia, ESEMPIO: interface User <T, U> {first: T; second:U;}
 
-// 20) Crea un'interfaccia generica per una risposta API.
+// 20) Crea un'interfaccia generica per una risposta API
 
 // interface Todo {
 //   id: string;

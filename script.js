@@ -107,7 +107,7 @@
 // Sono parametri di tipo che permette di non forzare il tipo di un dato all'interno dell'interfaccia.
 // 19) È possibile avere più tipi generici in un'interfaccia?
 // Si è possibile avere più tipi generici in un'interfaccia, ESEMPIO: interface User <T, U> {first: T; second:U;}
-// 20) Crea un'interfaccia generica per una risposta API.
+// 20) Crea un'interfaccia generica per una risposta API
 // interface Todo {
 //   id: string;
 //   title: string;
